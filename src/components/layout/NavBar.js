@@ -23,7 +23,8 @@ const NavBar = () => {
                         </li>
                     </ul>
                 </div>
-                {/* <Link to='/users/add' className="btn btn-outline-light">Add user</Link> */}
+                <Link to='/users/add' className="btn btn-outline-light">Add user</Link>
+                 
             </div>
         </nav>
     )
